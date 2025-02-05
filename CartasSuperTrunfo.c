@@ -43,7 +43,9 @@ scanf("%f", &PIB );
 printf("\n\nNome da cidade: %s \nPopulação: %d \nNúmero de pontos turísticos: %d \nÁrea da cidade: %f \nPIB: %f \n\n ", nomedacidade, populacao, numerodepontos, area, PIB );
 
 
+//commit (minha primeira atividade,  não sei como funciona! )
 
+printf("Novo commit");
 
 
 
