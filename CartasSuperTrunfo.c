@@ -47,7 +47,8 @@ PIBpercapita = PIB / populacao;
 printf("\n\nNome da cidade: %s \nPopulação: %d \nNúmero de pontos turísticos: %d \nÁrea da cidade: %.2f Km² \nDensidade populacional: %.2f por km² \nPIB: %.2f \nPIB per capita: %.2f \n\n ", nomedacidade, populacao, numerodepontos, area, densipopulacional,  PIB, PIBpercapita );
 
 
-
+//novo commit
+printf("\n\n novo commit");
 
 
 
